@@ -1,1 +1,3 @@
-readme 
+readme
+
+git clone test
